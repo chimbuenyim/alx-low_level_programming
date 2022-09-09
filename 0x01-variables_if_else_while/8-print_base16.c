@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - Prints numbers between 0 to 9 and letters between a to f.
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
 	int i;
 
@@ -13,5 +18,5 @@ int main()
 		putchar(i);
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }

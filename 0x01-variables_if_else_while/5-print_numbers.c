@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main()
+/**
+ * main - Prints numbers from 0 to 9.
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
 	int i;
 
@@ -9,5 +14,5 @@ int main()
 		printf("%d", i);
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
