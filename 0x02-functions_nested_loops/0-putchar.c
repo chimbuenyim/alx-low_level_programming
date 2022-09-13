@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Prints a message.
+ * main - Prints out a message.
  *
  * Return: Always 0 (Success)
  */
