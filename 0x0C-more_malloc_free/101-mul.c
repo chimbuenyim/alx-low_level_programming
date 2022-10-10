@@ -88,7 +88,6 @@ int main(int argc, char *argv[])
 
 	if (argc != 3)
 		printf("Error\n"), exit(98);
-		
 	num1 = _checknum(argv, 1), num2 = _checknum(argv, 2);
 	_is_zero(argv), lmul = num1 + num2, mul = malloc(lmul + 1);
 	if (mul == NULL)

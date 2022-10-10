@@ -1,4 +1,4 @@
-# More malloc, free
+# Structures, typedef
 
 Project done during **Full Stack Software Engineering** at **ALX School**. It aims to learn how to debug in **C language**.
 
@@ -14,9 +14,8 @@ All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-malloc_checked.c` | Allocates memory using `malloc` |
-| `1-string_nconcat.c` | Concatenates two strings |
-| `2-calloc.c` | Allocates memory for an array, using `malloc` |
-| `3-array_range.c` | Creates an array of integers |
-| `100-realloc.c` | Reallocates a memory block using `malloc` and `free` |
-| `101-mul.c` | Multiplies two positive numbers |
+| `dog.h` | Header file that contains a `struct dog` |
+| `1-init_dog.c` | Initialize a variable of type `struct dog` |
+| `2-print_dog.c` | Prints a `struct dog` |
+| `4-new_dog.c` | Creates a new dog |
+| `5-free_dog.c` | Frees a dog |
