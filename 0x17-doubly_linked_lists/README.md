@@ -47,4 +47,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Pilar Pinto** - [PilarPinto](https://github.com/PilarPinto)
+* **Chukwuemeka Duruji** - [Chimbuenyim](https://github.com/Chimbuenyim)
